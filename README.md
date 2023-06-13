@@ -9,16 +9,16 @@
 <ul>
   <li>👋 Hi, I’m gksll</li>
   <li>❤️ I love creating amazing backend structure and programming in JAVA.</li>
-  <li>🌱 I’m currently learning Backend Techs, SQL , Spring, Java, C#, and PostgreSQL.</li>
+  <li>🌱 I’m currently learning Backend Techs, SQL , Spring, Java and PostgreSQL.</li>
   <li>💼 I'm a Backend developer at ETIYA.</li>
-  <li>🧐 Portfolio Website, https://gokseldogan.com.tr</li>
+  <li>🧐 Portfolio Website, https://gokseldogan.dev</li>
 </ul>
 
 #### A little more about me
 ```javascript
 const goksel = {
   pronouns: "He" | "Him",
-  code: ["Java", "Spring", "C#", "PostgreSQL"],
+  code: ["Java", "Spring", "PostgreSQL"],
   askMeAbout: ["web dev", "backend dev", "java", "Angular"],
   technologies: {
       frontend: ["HTML", "CSS", "Angular", "Bootstrap"],
