@@ -10,7 +10,7 @@
   <li>👋 Hi, I’m gksll</li>
   <li>❤️ I love creating amazing backend structure and programming in JAVA.</li>
   <li>🌱 I’m currently learning Backend Techs, SQL , Spring, Java and PostgreSQL.</li>
-  <li>💼 I'm a Backend developer at ETIYA.</li>
+  <li>💼 I'm a Full Stack developer at Türkiye Noterler Birliği</li>
   <li>🧐 Portfolio Website, https://gokseldogan.dev</li>
 </ul>
 
